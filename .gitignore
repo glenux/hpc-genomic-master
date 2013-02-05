@@ -1,0 +1,11 @@
+/bin
+/.bundle
+/.vagrant
+/vendor/bundle
+/tmp
+/*.box
+/README.html
+.tmp/
+*~
+/graphs/*.dot
+/graphs/*.png
